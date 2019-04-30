@@ -1,5 +1,5 @@
 QT += widgets
-CONFIG += console
+
 OTHER_FILES += \
     qtc_packaging/debian_harmattan/rules \
     qtc_packaging/debian_harmattan/README \
